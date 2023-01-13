@@ -1,0 +1,12 @@
+
+ <!-- In the index.html file, create a form for users to input their GRE score, GPA, and rank. -->
+<div><br><br><br></div>
+<div>
+<form method="POST" action="{{url_for('predict')}}">
+  <input type="number" name="gre" placeholder="GRE" min="200" max="800">
+  <input type="number" name="gpa" placeholder="GPA" min="0" max="4" step="0.01">
+  <input type="number" name="rank" placeholder="Rank" min="0" max="4">
+  <input type="submit" value="Predict">
+</form>
+</div>
+
