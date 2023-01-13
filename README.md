@@ -1,4 +1,7 @@
 *********** Logistic-Regression-ML ************
+I have successfully implemented Logistic Regression 
+and successufully deploy it using flask
+
 
 here we have three parts:
 
