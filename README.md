@@ -9,7 +9,7 @@ here we have three parts:
 2. flaskapp.py is our app that we deploying.
 3. model.py: here we have trained our data using Logistic Regression.
 4. model.pkl is the pickle file of our model which we can be used next.
-5. temlate folder: consist of index.html and predict.html.
+5. index.html and predict.html for user input and output.
 
 
 *********** Thank you ***********
