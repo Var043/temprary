@@ -1,6 +1,5 @@
 *********** Logistic-Regression-ML ************
-I have successfully implemented Logistic Regression 
-and successufully deploy it using flask
+
 
 
 here we have three parts:
@@ -12,4 +11,8 @@ here we have three parts:
 5. index.html and predict.html for user input and output.
 
 
+Objective:
+    With the help of Logistic Regression we can determine 
+    whether a person can admit or not by given gre, gpa & rank.
+    
 *********** Thank you ***********
