@@ -10,7 +10,7 @@ import pickle
 
 # Create an instance of the Flask class and define routes for the web page.
 app = Flask(__name__)
-model=pickle.load(open('model.pkl','rb'))
+model=pickle.load(open('LR_model.pkl','rb'))
 
 @app.route('/')
 def index():
